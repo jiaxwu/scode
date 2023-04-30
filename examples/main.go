@@ -1,11 +1,3 @@
-# scode
-A temporary random short code generation algorithm
-
-# Quick Start
-
-`go get github.com/jiaxwu/scode`
-
-```go
 package main
 
 import (
@@ -37,4 +29,3 @@ func main() {
 		log.Fatal(err)
 	}
 }
-```
